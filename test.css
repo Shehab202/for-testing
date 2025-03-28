@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(3, 7, 18);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: burlywood;
+  overflow: hidden;
+}
+img {
+  width: 800px;
+  z-index: -10;
+  text-align: start;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
